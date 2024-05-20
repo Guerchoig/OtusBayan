@@ -1,0 +1,15 @@
+
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-2.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-2.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-2.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-2.cpp
+
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-3.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-3.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-3.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-3.cpp
+
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-1.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/p1000/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-1.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation — копия/p1769-1.cpp
+/home/sasha/source/OtusCC/OtusBayan/test/copy p1000/p1769 Bitmap substring search. Substr generation/p1769-1.cpp
