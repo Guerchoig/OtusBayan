@@ -1,4 +1,4 @@
-/// @brief File matching header only module 
+/// @brief File matching header only module
 #pragma once
 #include "program_options.h"
 #include "hash_history.h"
@@ -97,7 +97,7 @@ void match_files(const std::vector<size_n_path_t> paths_found)
 
                 if (token->fsize == match->fsize)
                 {
-                    for (std::size_t block_ind = 0; !token_file.eof() && !match_file.eof(); ++block_ind)
+                    for (std::size_t block_ind = 0; !token_file.eof(); ++block_ind)
                     {
                         read_block_if_its_hash_is_absent(token_file, token_ind, block_ind);
                         read_block_if_its_hash_is_absent(match_file, match_ind, block_ind);

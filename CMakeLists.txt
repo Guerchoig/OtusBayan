@@ -67,6 +67,8 @@ set(CPACK_PACKAGE_CONTACT alex-guerchoig@yandex.ru)
 
 include(CPack)
 
+
+
 # enable_testing()
 # include(GoogleTest)
 # gtest_discover_tests(test_bayan)
