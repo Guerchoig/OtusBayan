@@ -1,4 +1,5 @@
-/// @brief File matching header only module
+/// @brief This file contains file matching machinerie,
+///        which uses hash history objects from corresponding header
 #pragma once
 #include "program_options.h"
 #include "hash_history.h"
