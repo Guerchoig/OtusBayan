@@ -15,6 +15,7 @@ project(bayan VERSION ${PROJECT_VESRION})
 # FetchContent_MakeAvailable(googletest)
 
 # configure_file(config.h.in config.h)
+set(Boost_USE_STATIC_LIBS ON)
 
 FIND_PACKAGE( Boost 1.84 COMPONENTS program_options filesystem regex REQUIRED )
 INCLUDE_DIRECTORIES( ${Boost_INCLUDE_DIR} )
