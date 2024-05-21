@@ -17,7 +17,7 @@ project(bayan VERSION ${PROJECT_VESRION})
 # configure_file(config.h.in config.h)
 set(Boost_USE_STATIC_LIBS ON)
 
-FIND_PACKAGE( Boost 1.84 COMPONENTS program_options filesystem regex REQUIRED )
+FIND_PACKAGE( Boost COMPONENTS program_options filesystem regex REQUIRED )
 INCLUDE_DIRECTORIES( ${Boost_INCLUDE_DIR} )
 add_executable(bayan bayan.cpp)
 # add_library(bayan_lib bayan_lib.cpp)
