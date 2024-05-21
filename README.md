@@ -1,5 +1,5 @@
 Allowed options:
-  --help                          produce help message
+  --help                          produce help message 
   -S [ --block size ] arg (=128)  hash block size in bytes: 128 bytes is 
                                   default
   -r [ --recursion ] arg (=1)     recursion: 1-include subdirs in search, 
