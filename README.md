@@ -1,4 +1,4 @@
-#Allowed options:
+Allowed options:
   --help                          produce help message
   -S [ --block size ] arg (=128)  hash block size in bytes: 128 bytes is 
                                   default
